@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://coursestore-kqr5.onrender.com/api/v1";
+export const BACKEND_URL = "https://course-store-pi.vercel.app//api/v1";
